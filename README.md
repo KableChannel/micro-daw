@@ -1,2 +1,2 @@
-# kracker-tracker
-A custom MIDI music library (and authoring tool) for games
+# micro-daw
+A lightweight real-time music library (and authoring tool) for games.
